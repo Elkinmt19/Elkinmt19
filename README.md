@@ -4,7 +4,7 @@
 - :mortar_board: I’m currently in ninth semester of Mechatronics Engineering.
 - :robot: I’m improving my skills in collaborative robot programming and manipulation.
 - 📄: I’m happy sharing my knowledge and experience with others.
-- :goal_net: This year's Goals: Contribute more to Open Source projects.
+- :goal_net: This year's Goals: Contribute to Open Source projects and gain more knowledge.
 - 😎: Fun fact: I like to play soccer :soccer: .
 
 ### Connect with me:
