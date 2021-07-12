@@ -1,7 +1,7 @@
 ### Hi there, I'm Elkin Javier Guerra([Elkinmt19][website]) 👋
 
 ## I'm a Mechatronics Engineer passionate about robotics and new technologies :mechanical_arm: . 
-- :mortar_board: I’m currently in ninth semester of Mechatronics Engineering.
+- :mortar_board: I’m currently in tenth semester of Mechatronics Engineering.
 - :robot: I’m improving my skills in collaborative robot programming and manipulation.
 - 📄: I’m happy sharing my knowledge and experience with others.
 - :goal_net: This year's Goals: Contribute to Open Source projects and gain more knowledge.
