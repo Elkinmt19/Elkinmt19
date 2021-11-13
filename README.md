@@ -19,5 +19,5 @@
 ---
 [github]: https://github.com/Elkinmt19
 [website]: https://github.com/Elkinmt19
-[linkedin]: https://www.linkedin.com/in/elkin-guerra-60832b1b3/
+[linkedin]: https://www.linkedin.com/in/elkin-javier-guerra-galeano-60832b1b3/
 [instagram]: https://www.instagram.com/elkin02011/?hl=es-la
