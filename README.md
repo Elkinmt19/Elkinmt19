@@ -34,7 +34,7 @@
 
 <br/>
 
-## 📈 My GitHub Stats 
+### 📈 My GitHub Stats 
 <a href="https://github.com/Elkinmt19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elkinmt19&theme=algolia&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkinmt19&theme=algolia&layout=compact" />
