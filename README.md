@@ -32,7 +32,6 @@
   ![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
   ![Vim](https://img.shields.io/badge/--019733?logo=vim)
 
-<br/>
 
 ### 📈 My GitHub Stats 
 <a href="https://github.com/Elkinmt19">
