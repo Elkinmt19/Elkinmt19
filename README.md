@@ -47,10 +47,7 @@
 [<img align="left" alt="Elkinmt19 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Elkinmt19 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
 
-
-
 <br />
-
 ---
 [github]: https://github.com/Elkinmt19
 [website]: https://github.com/Elkinmt19
