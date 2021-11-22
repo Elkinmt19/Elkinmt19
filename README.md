@@ -1,4 +1,4 @@
-### Hi there, I'm Elkin Javier Guerra([Elkinmt19][website]) 👋
+# Hi there, I'm Elkin Javier Guerra([Elkinmt19][website]) 👋
 
 ## I'm a Mechatronics Engineer passionate about robotics and new technologies :mechanical_arm: . 
 - :mortar_board: I’m currently in tenth semester of Mechatronics Engineering.
