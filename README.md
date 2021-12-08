@@ -1,6 +1,6 @@
-### Hi there, I'm Elkin Javier Guerra([Elkinmt19][website]) 👋
+# Hi there, I'm Elkin Javier Guerra([Elkinmt19][website]) 👋
 
-## I'm a Mechatronics Engineer passionate about robotics and new technologies :mechanical_arm: . 
+## I'm a Mechatronics Engineer passionate about Robotics, Cloud Computing, Artificial Intelligence and new technologies :mechanical_arm: . 
 - :mortar_board: I’m currently in tenth semester of Mechatronics Engineering.
 - :robot: I’m improving my skills in collaborative robot programming and manipulation.
 - 📄: I’m happy sharing my knowledge and experience with others.
@@ -32,7 +32,6 @@
   ![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
   ![Vim](https://img.shields.io/badge/--019733?logo=vim)
 
-<br/>
 
 ### 📈 My GitHub Stats 
 <a href="https://github.com/Elkinmt19">
