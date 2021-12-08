@@ -1,7 +1,7 @@
-# Hi there, I'm Elkin Javier Guerra([Elkinmt19][website]) 👋
+# Hi there, I'm Elkin Javier Guerra([Elkinmt19][website]) <img src="https://github.com/Elkinmt19/Elkinmt19/blob/main/assets/imgs/robotboy_fly.gif"/>
 
 ## I'm a Mechatronics Engineer passionate about Robotics, Cloud Computing, Artificial Intelligence and new technologies :mechanical_arm: . 
-- :mortar_board: I’m currently in tenth semester of Mechatronics Engineering.
+- :mortar_board: I am a Mechatronics Engineer fascinated by robotics and cloud computing.
 - :robot: I’m improving my skills in collaborative robot programming and manipulation.
 - 📄: I’m happy sharing my knowledge and experience with others.
 - :goal_net: This year's Goals: Contribute to Open Source projects and gain more programming knowledge.
