@@ -5,7 +5,7 @@
 - :robot: I’m improving my skills in collaborative robot programming and manipulation.
 - 📄: I’m happy sharing my knowledge and experience with others.
 - :goal_net: This year's Goals: Contribute to Open Source projects and gain more programming knowledge.
-- 😎: Fun fact: I like to play soccer :soccer: .
+- 😎: Fun fact: I like to play soccer with my friends :soccer: .
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
