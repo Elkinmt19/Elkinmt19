@@ -2,7 +2,7 @@
 
 ## I'm a Mechatronics Engineer passionate about Robotics, Cloud Computing, Artificial Intelligence and new technologies :mechanical_arm: . 
 - :mortar_board: I am a Mechatronics Engineer fascinated by robotics and cloud computing.
-- :robot: I’m improving my skills in collaborative robot programming and manipulation.
+- :robot: I’m improving my skills in Cloud Computing (Amazon Web Services) and DevOps.
 - 📄: I’m happy sharing my knowledge and experience with others.
 - :goal_net: This year's Goals: Contribute to Open Source projects and gain more programming knowledge.
 - 😎: Fun fact: I like to play soccer with my friends :soccer: .
