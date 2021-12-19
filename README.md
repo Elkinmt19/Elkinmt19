@@ -5,7 +5,7 @@
 - :robot: I’m improving my skills in Cloud Computing (Amazon Web Services) and DevOps.
 - 📄: I’m happy sharing my knowledge and experience with others.
 - :goal_net: This year's Goals: Contribute to Open Source projects and gain more programming knowledge.
-- 😎: Fun fact: I like to play soccer with my friends :soccer: .
+- 😎: Fun fact: I like to watch and play soccer with my friends :soccer: .
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
