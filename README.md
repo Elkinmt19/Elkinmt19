@@ -1,37 +1,26 @@
 # Hi there, I'm Elkin Javier Guerra([Elkinmt19][website]) <img src="https://github.com/Elkinmt19/Elkinmt19/blob/main/assets/imgs/robotboy_fly.gif"/>
 
-## I'm a Mechatronics Engineer passionate about Robotics, Cloud Computing, Artificial Intelligence and new technologies :mechanical_arm: . 
-- :mortar_board: I am a Mechatronics Engineer fascinated by robotics and cloud computing.
-- :robot: I’m improving my skills in Cloud Computing (Amazon Web Services) and DevOps.
-- 📄: I’m happy sharing my knowledge and experience with others.
-- :goal_net: This year's Goals: Contribute to Open Source projects and gain more programming knowledge.
-- 😎: Fun fact: I like to watch and play soccer with my friends :soccer: .
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
-  ![Vim](https://img.shields.io/badge/--019733?logo=vim)
-
+```python
+class ElkinG:
+    def __init__(self):
+        self.username = 'Elkinmt19'
+        self.name = 'Elkin Javier Guerra Galeano'
+        self.web = 'https://github.com/Elkinmt19'
+        self.instagram = '@elkin02011'
+        self.code = {
+            'machinelearning': ['sklearn', 'tensorflow', 'yolo', 'sagemaker']
+            'frontend': ['HTML', 'CSS', 'JavaScript'],
+            'backend': ['Python', 'Flask', 'Django','NodeJS'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+            'devops': ['Docker', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook']
+        }
+        self.architecture = ['Serverless', 'microservices']
+    def __str__(self):
+        return self.name
+if __name__ == '__main__':
+    me = ElkinG()
+```
 
 ### 📈 My GitHub Stats 
 <a href="https://github.com/Elkinmt19">
