@@ -5,6 +5,7 @@ class ElkinG:
     def __init__(self):
         self.username = 'Elkinmt19'
         self.name = 'Elkin Javier Guerra Galeano'
+        self.linkedin = 'https://www.linkedin.com/in/elkin-javier-guerra-galeano-60832b1b3/'
         self.web = 'https://github.com/Elkinmt19'
         self.instagram = '@elkin02011'
         self.code = {
