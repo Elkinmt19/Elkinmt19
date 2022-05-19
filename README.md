@@ -9,6 +9,7 @@ class ElkinG:
         self.web = 'https://github.com/Elkinmt19'
         self.instagram = '@elkin02011'
         self.code = {
+            'cloud': ['AWS', 'GCP'],
             'machinelearning': ['sklearn', 'tensorflow', 'yolo', 'sagemaker', 'xgboost'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'Flask', 'Django','NodeJS'],
