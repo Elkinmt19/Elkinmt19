@@ -14,7 +14,7 @@ class ElkinG:
             'backend': ['Python', 'Flask', 'Django','NodeJS'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
             'devops': ['Docker', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku','Azure DevOps'],
-            'mlops':['sagemaker projects','kubeflow','airflow'],
+            'mlops':['sagemaker projects','kubeflow','airflow','MLflow','Tecton','DVC'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook']
         }
         self.architecture = ['Serverless', 'microservices']
