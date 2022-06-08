@@ -10,13 +10,14 @@ class ElkinG:
         self.instagram = '@elkin02011'
         self.code = {
             'cloud': ['AWS', 'GCP'],
-            'machinelearning': ['sklearn', 'tensorflow', 'yolo', 'sagemaker', 'xgboost'],
+            'machine-learning': ['sklearn', 'tensorflow', 'yolo', 'sagemaker', 'xgboost'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'Flask', 'Django','NodeJS'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
             'devops': ['Docker', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku','Azure DevOps'],
             'mlops':['sagemaker projects','kubeflow','airflow','MLflow','Prefect','Tecton','DVC'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook']
+            'big-data':['Apache Spark','Hadoop','Amazon EMR'],
+            'tools': ['GIT', 'GitHub', 'GitLab']
         }
         self.architecture = ['Serverless', 'microservices']
     def __str__(self):
