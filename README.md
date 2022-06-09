@@ -19,7 +19,7 @@ class ElkinG:
             'big-data':['Apache Spark','Hadoop','Amazon EMR'],
             'tools': ['GIT', 'GitHub', 'GitLab']
         }
-        self.architecture = ['Serverless', 'microservices']
+        self.architecture = ['Serverless', 'Microservices']
     def __str__(self):
         return self.name
 if __name__ == '__main__':
