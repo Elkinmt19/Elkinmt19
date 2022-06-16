@@ -12,12 +12,12 @@ class ElkinG:
             'cloud': ['AWS', 'GCP'],
             'machine-learning': ['sklearn', 'tensorflow', 'yolo', 'sagemaker', 'xgboost'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
-            'backend': ['Python', 'Flask', 'Django','NodeJS'],
+            'backend': ['Python', 'Flask', 'Django','NodeJS','FastAPI'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku','Azure DevOps'],
-            'mlops':['sagemaker projects','kubeflow','airflow','MLflow','Prefect','Tecton','DVC'],
+            'devops': ['Docker', 'Jenkins', 'GitHub Actions', 'Heroku','Azure DevOps'],
+            'mlops':['sagemaker projects','kubeflow','airflow','MLflow','Prefect','Feast','DVC'],
             'big-data':['Apache Spark','Hadoop','Amazon EMR'],
-            'tools': ['GIT', 'GitHub', 'GitLab']
+            'tools': ['Git', 'GitHub', 'GitLab']
         }
         self.architecture = ['Serverless', 'Microservices']
     def __str__(self):
