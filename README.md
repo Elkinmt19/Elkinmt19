@@ -15,6 +15,7 @@ class ElkinG:
             'backend': ['Python', 'Flask', 'Django','NodeJS','FastAPI'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
             'devops': ['Docker', 'Jenkins', 'GitHub Actions', 'Heroku','Azure DevOps'],
+            'IaC': ['Terraform','AWS-Cloud-Formation'],
             'mlops':['sagemaker projects','kubeflow','airflow','MLflow','Prefect','Feast','DVC'],
             'big-data':['Apache Spark','Hadoop','Amazon EMR'],
             'tools': ['Git', 'GitHub', 'GitLab']
