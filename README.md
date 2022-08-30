@@ -11,13 +11,13 @@ class ElkinG:
         self.instagram = '@elkin02011'
         self.code = {
             'cloud': ['AWS', 'GCP'],
-            'machine-learning': ['sklearn', 'tensorflow', 'sagemaker', 'xgboost'],
+            'machine-learning': ['SKlearn', 'Tensorflow', 'Sagemaker', 'XGboost'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'Flask', 'Django','NodeJS','FastAPI'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'MongoDB'],
             'devops': ['Docker','Kubernetes','GitLab CI/CD','Jenkins','GitHub Actions','Azure DevOps'],
             'IaC': ['Terraform','AWS-CloudFormation'],
-            'mlops':['sagemaker projects','kubeflow','airflow','MLflow','Prefect','Feast','DVC'],
+            'mlops':['Sagemaker projects','Kubeflow','Airflow','MLflow','Prefect','Feast','DVC'],
             'big-data':['Apache Spark','Hadoop','Amazon EMR'],
             'tools': ['Git', 'GitHub', 'GitLab']
         }
