@@ -11,7 +11,7 @@ class ElkinG:
         self.instagram = '@elkin02011'
         self.code = {
             'cloud': ['AWS', 'GCP'],
-            'machine-learning': ['SKlearn', 'Tensorflow', 'Sagemaker', 'XGboost'],
+            'machine-learning': ['SKlearn', 'Tensorflow', 'Sagemaker', 'XGboost','Vertex AI'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'Flask', 'Django','NodeJS','FastAPI'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'MongoDB'],
