@@ -14,7 +14,7 @@ class ElkinG:
             'machine-learning': ['SKlearn', 'Tensorflow', 'Sagemaker', 'XGboost','Vertex AI'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'Flask', 'Django','NodeJS','FastAPI'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'MongoDB'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'MongoDB','Amazon Redshift'],
             'devops': ['Docker','Kubernetes','GitLab CI/CD','Jenkins','GitHub Actions','Azure DevOps'],
             'IaC': ['Terraform','AWS-CloudFormation','AWS CDK','AWS DDK'],
             'mlops':['Sagemaker projects','Kubeflow','Airflow','MLflow','Prefect','Feast','DVC'],
